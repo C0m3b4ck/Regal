@@ -1,0 +1,9 @@
+Before release:
+* Finish GUI
+* Finish buisness layer (DTO, encryption, etc.)
+* Make sure all book-related functions and logging in work
+
+After release:
+* Add support for online backups
+* Add support for ISBN numbers as data
+* Add support for barcode scanners

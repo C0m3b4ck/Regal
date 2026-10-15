@@ -1,6 +1,6 @@
 # Regal
 A light library program that can work fully offline, but also has online capabilities. It is intended to be light on resource use, support major Linux distributions and Windows versions from Windows 2000.
-Name comes from the Polish word for shelf.
+Name comes from the Polish word for shelf. Made as a passion project.
 # Download
 (will have a link to the releases page and a link to SourceForge if I publish there)
 
@@ -15,6 +15,7 @@ Done functions here
 * Catalogue books and magazines,
 * Barcode scanner support,
 * ISBN number support,
+* Online backups
 
 # License
 The license is APL 2.0 - that means if you want to use the code, you need to include information that the original code comes from C0m3b4ck.
